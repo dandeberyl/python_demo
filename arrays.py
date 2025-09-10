@@ -52,3 +52,5 @@ print(*a)
 #extend
 a.extend([60,70,80,90,100])
 print(a)
+
+
